@@ -1,0 +1,12 @@
+Successfully installed nokogiri-1.13.6-x86_64-linux
+Parsing documentation for nokogiri-1.13.6-x86_64-linux
+Done installing documentation for nokogiri after 0 seconds
+Successfully installed directory-0.0.1
+Parsing documentation for directory-0.0.1
+Installing ri documentation for directory-0.0.1
+Done installing documentation for directory after 0 seconds
+Successfully installed permissions-0.1.3
+Parsing documentation for permissions-0.1.3
+Installing ri documentation for permissions-0.1.3
+Done installing documentation for permissions after 0 seconds
+3 gems installed
