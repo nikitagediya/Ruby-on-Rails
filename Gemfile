@@ -12,7 +12,7 @@ gem "sprockets-rails"
 # Use sqlite3 as the database for Active Record
 # gem "sqlite3", "~> 1.4"
 
-gem "pg"
+gem 'pg', '~> 1.4', '>= 1.4.1'
 
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
@@ -31,7 +31,7 @@ gem "jbuilder"
 
 gem 'devise', '~> 4.8', '>= 4.8.1'
 
-gem 'heroku', '~> 3.99', '>= 3.99.4'
+gem 'heroku_cli', '~> 0.2.0'
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
